@@ -1,10 +1,10 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hello 👋, I am Mohammad Monjur E Elahe</h1>
-<h3 align="center">A passionate full stack Android Mobile Application developer || flutter developer from Bangladesh </h3>
+<h3 align="center">A passionate Fullstack Android Mobile Application (Flutter) developer from Bangladesh </h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Njb29rYXJqZHd4YThnOWs4ajN2enY1YXFlZW1menZjdzJrZjgxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on SM Technology, sister company of bdCalling IT Solutions<br>🌱 I’m currently working as a JR. Flutter App Developer<br>💬 Ask me about Android<br>📫 How to reach me monjureelahe@gmail.com<br>
+🔭 I’m currently working on SM Technology, bdCalling IT Solutions<br>🌱 Working as a Jr. Flutter Mobile App Developer<br>💬 Ask me about anything<br>📫 How to reach me monjureelahe@gmail.com<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mugdho&label=Profile%20views&color=0e75b6&style=flat" alt="Mugdho" /> </p>
 
@@ -48,7 +48,6 @@
 
 # <img src = "https://buildfire.com/wp-content/uploads/2021/10/Whats-the-Difference-Between-UX-Design-vs.-UI-Design_@3x-1-scaled-1200x900.jpg" width = 32px> UI/UX Design
 <p align="center">
-  <img [Adobe Audition] src="https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white"/>
   <img [Adobe XD] src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
   <img [Adobe Photoshop] src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img [Canva] src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
