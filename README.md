@@ -1,10 +1,10 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQE9ud7IsY_RMA/profile-displaybackgroundimage-shrink_350_1400/B4EZe7_.9rHIAY-/0/1751205804110?e=1756339200&v=beta&t=OeKCOXxqpqYnpalMnI9Xu6Y77xXApa1FAIIsZTvdUhU)
-<h1 align="center">Hello 👋, I am Mohammad Monjur E Elahe</h1>
+<h1 align="center">Hi AssalamuAlaikum, I am Mohammad Monjur E Elahe</h1>
 <h3 align="center">A passionate Fullstack Android Mobile Application (Flutter) developer from Bangladesh </h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Njb29rYXJqZHd4YThnOWs4ajN2enY1YXFlZW1menZjdzJrZjgxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on SM Technology, bdCalling IT Solutions<br>🌱 Working as a Jr. Flutter Mobile App Developer<br>💬 Ask me about anything<br>📫 How to reach me monjureelahe@gmail.com<br>
+🔭 I’m currently working on SM Technology, bdCalling IT Solutions<br>🌱 Jr. Flutter Mobile App Developer<br>💬 Ask me about anything<br>📫 How to reach me monjureelahe@gmail.com<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mugdho&label=Profile%20views&color=0e75b6&style=flat" alt="Mugdho" /> </p>
 
